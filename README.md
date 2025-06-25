@@ -16,12 +16,11 @@
   </a>
 </p>
 
-# 🎙️DeepCast: 一站式播客创作平台
+# **🎙️DeepCast**：{ 一站式播客创作平台 }
 
 <img width="1111" alt="..." src="creating.png">
 
 ---
 <p align="center">
-
 ✨🎙️*让创作更智能，让传播更深度* 🎙️✨
 </p>
