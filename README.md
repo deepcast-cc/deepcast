@@ -21,6 +21,7 @@
 <img width="1111" alt="..." src="creating.png">
 
 ---
+
 <p align="center">
-✨🎙️*让创作更智能，让传播更深度* 🎙️✨
+  <b>✨🎙️让创作更智能，让传播更深度 🎙️✨</b>
 </p>
