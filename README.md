@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="deepcast.png" alt="DeepCast" />
+  <img width="1111" alt="DeepCast" src="deepcast.png"  />
 </p>
 <p align="center">
   <a href="https://discord.gg/GSVNwVqT">
@@ -18,7 +18,7 @@
 
 # **🎙️DeepCast**：{ 一站式播客创作平台 }
 
-<img width="1111" alt="..." src="creating.png">
+<img width="1111" alt="Creating" src="creating.png">
 
 ---
 
