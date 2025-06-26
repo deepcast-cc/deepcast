@@ -2,7 +2,7 @@
   <img width="1111" alt="DeepCast" src="deepcast.png"  />
 </p>
 <p align="center">
-  <a href="https://discord.gg/GSVNwVqT">
+  <a href="https://discord.gg/5jupXbJPsH">
     <img
         src="https://img.shields.io/badge/Forum-Discord-%235865F2.svg"
         alt="Discord"
